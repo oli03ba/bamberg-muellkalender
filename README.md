@@ -126,7 +126,7 @@ Beiträge sind willkommen! Bitte erstelle einen Pull Request oder öffne ein Iss
 
 ## Support
 
-Bei Problemen oder Fragen öffne bitte ein [Issue](https://github.com/DEINUSERNAME/bamberg-muellkalender/issues).
+Bei Problemen oder Fragen öffne bitte ein [Issue](https://github.com/oli03ba/bamberg-muellkalender/issues).
 
 ---
 
