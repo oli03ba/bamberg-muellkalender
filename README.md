@@ -21,7 +21,14 @@ Eine moderne Desktop-Anwendung zur Anzeige der Abfuhrtermine für die Stadt Bamb
 
 ## Screenshots
 
-*Coming soon*
+### Hauptfenster
+![Hauptfenster](screenshots/hauptfenster.png)
+
+### Dark Mode
+![Dark Mode](screenshots/darkmode.png)
+
+### Statistik
+![Statistik](screenshots/statistik.png)
 
 ## Installation
 
