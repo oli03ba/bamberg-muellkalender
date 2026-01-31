@@ -30,6 +30,9 @@ Eine moderne Desktop-Anwendung zur Anzeige der Abfuhrtermine für die Stadt Bamb
 ### Statistik
 ![Statistik](screenshots/statistik.png)
 
+### Druckvorschau
+![Druckvorschau](screenshots/druckvorschau.png)
+
 ## Installation
 
 ### Voraussetzungen
