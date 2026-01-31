@@ -34,7 +34,7 @@ Eine moderne Desktop-Anwendung zur Anzeige der Abfuhrtermine für die Stadt Bamb
 
 ```bash
 # Repository klonen
-git clone https://github.com/DEINUSERNAME/bamberg-muellkalender.git
+git clone https://github.com/oli03ba/bamberg-muellkalender.git
 cd bamberg-muellkalender
 
 # Python und tkinter installieren
@@ -55,7 +55,7 @@ python3 bamberg_muell.py
 
 ```bash
 # Repository klonen
-git clone https://github.com/DEINUSERNAME/bamberg-muellkalender.git
+git clone https://github.com/oli03ba/bamberg-muellkalender.git
 cd bamberg-muellkalender
 
 # Virtual Environment erstellen (empfohlen)
